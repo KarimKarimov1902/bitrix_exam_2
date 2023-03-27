@@ -30,7 +30,7 @@ if ($this->StartResultCache(false, array($USER->GetUserGroupArray(), $arNavigati
 	global $CACHE_MANAGER;
 	$CACHE_MANAGER->StartTagCache('');
 	
-
+	// Добавить дополнительную фильтрацию элементов в созданный простой компонент «Каталог товаров».
 	if(isset($_GET['F'])) $this->AbortResultCache();
 	
 	if(!$iblockProd = $arParams['PRODUCTS_IBLOCK_ID']) return false;
@@ -50,7 +50,8 @@ if ($this->StartResultCache(false, array($USER->GetUserGroupArray(), $arNavigati
 	if(!$resClassif->SelectedRowsCount()) return false;
 
 	$arResult["IBLOCK_ID"] = $iblockProd;
-
+	
+	// Добавить отображение данных в шаблон сайта
 	$filter = array('IBLOCK_ID'=>$iblockProd, 'ACTIVE' => 'Y', '!'.$propCode => false, 'CHECK_PERMISSIONS' => 'Y');
 	if(isset($_GET['F'])){
 		$filter[] = array(
@@ -60,6 +61,7 @@ if ($this->StartResultCache(false, array($USER->GetUserGroupArray(), $arNavigati
 		);
 	}
 
+	
 	$maxPrice = "0";
 	$minPrice = "99999999";
 
@@ -84,11 +86,13 @@ if ($this->StartResultCache(false, array($USER->GetUserGroupArray(), $arNavigati
 			0,
 			array("SECTION_BUTTONS" => false, "SESSID" => false)
 		);
-
+		// Добавить отображение данных в шаблон сайта
 		$price = $arProduct['PROPERTY_PRICE_VALUE'];
 		if($price < $minPrice ) $minPrice = $price;
 		if($price > $maxPrice) $maxPrice = $price;
- 
+  
+		// Добавить управление элементами – «Эрмитаж» в созданный простой компонент «Каталог товаров»
+
 		if(!isset($arAllProducts[$prodId])){
 			$arAllProducts[$prodId] = array(
 				'NAME' => $arProduct['NAME'],
@@ -134,6 +138,7 @@ if ($this->StartResultCache(false, array($USER->GetUserGroupArray(), $arNavigati
 	$arResult['ALL_PRODUCTS'] = $arAllProducts;
 	$arResult['COUN_SECTIONS'] = count($arItems);
 
+	// Добавить дополнительную фильтрацию элементов в созданный простой компонент «Каталог товаров».
 	if(!isset($_GET['F'])){
 		$url = $APPLICATION->GetCurPage()."?F=Y";
 		$arResult['FILTER_LINK'] = '<a href="'.$url.'">'. $url . '</a>';
@@ -149,6 +154,7 @@ if ($this->StartResultCache(false, array($USER->GetUserGroupArray(), $arNavigati
 	);
 	$arResult["ADD_ELEMENT_LINK"] = $arButtons["edit"]["add_element"]["ACTION_URL"];
 
+	//Добавить пункт «ИБ в админке» в выпадающем меню компонента.
 	$res = CIBlock::GetByID($iblockProd);
 	$ar_res = $res->GetNext();
 
@@ -160,11 +166,12 @@ if ($this->StartResultCache(false, array($USER->GetUserGroupArray(), $arNavigati
 		)
 	);
 
+	// Добавить отображение данных в шаблон сайта
 	$arResult['MAX_PRICE'] = $maxPrice;
 	$arResult['MIN_PRICE'] = $minPrice;
 
 	
-
+	// Добавить отображение данных в шаблон сайта
 	$this->SetResultCacheKeys(array('COUN_SECTIONS','MIN_PRICE', 'MAX_PRICE'));
 	
 	$this->includeComponentTemplate();	

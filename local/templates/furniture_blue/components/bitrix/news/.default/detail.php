@@ -36,8 +36,8 @@
 		"ELEMENT_ID" => $arResult["VARIABLES"]["ELEMENT_ID"],
 		"ELEMENT_CODE" => $arResult["VARIABLES"]["ELEMENT_CODE"],
 		"IBLOCK_URL" => $arResult["FOLDER"].$arResult["URL_TEMPLATES"]["news"],
-		"IBLOCK_CANONICAL" => $arParams["IBLOCK_CANONICAL"],
-		"SET_AJAX_ZALOB" => $arParams["SET_AJAX_ZALOB"],
+		"IBLOCK_CANONICAL" => $arParams["IBLOCK_CANONICAL"], //link rel="canonical" для детальной новости
+		"SET_AJAX_ZALOB" => $arParams["SET_AJAX_ZALOB"], //Сбор жалоб на новости, на AJAX
 	),
 	$component
 );?>

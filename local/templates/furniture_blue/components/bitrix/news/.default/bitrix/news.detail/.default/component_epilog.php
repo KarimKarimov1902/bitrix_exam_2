@@ -1,12 +1,13 @@
 <?
 if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
-
+// Сбор жалоб на новости, на AJAX
 const IBLOCK_ZALOB = 8;
 
+// link rel="canonical" для детальной новости
 if(isset($arResult['CANONICAL_LINK'])){
     $APPLICATION->SetPageProperty('canonical', $arResult['CANONICAL_LINK']);
 }
-
+// Сбор жалоб на новости, на AJAX
 if($_REQUEST['zal'] ==1 && ($newId = (int)$_REQUEST['id'])){ 
     $name = session_id().'_'.$newId;
 

@@ -8,7 +8,8 @@
 	<?endif;?>
 	<?if($arParams["DISPLAY_NAME"]!="N" && $arResult["NAME"]):?>
 		<h3><?=$arResult["NAME"]?></h3>
-		<a href="./?zal=1&id=<?=$arResult["ID"]?>" id="zalob"><?=GetMessage('POZALOV');?></a>
+		<!-- Сбор жалоб на новости, на AJAX -->
+		<a href="./?zal=1&id=<?=$arResult["ID"]?>" id="zalob"><?=GetMessage('POZALOV');?></a> 
 		<div id="result_zalob" style="color:#f00; margin:10px 0 10px 0; display:none;"></div>
 	<?endif;?>
 	<div class="news-detail">
@@ -43,6 +44,7 @@
 	</div>
 </div>
 
+<!-- Сбор жалоб на новости, на AJAX -->
 <script src="<?= $this->GetFolder()?>/jquery-1.8.3.min.js"></script>
 
 <? if($arParams['SET_AJAX_ZALOB']):?>

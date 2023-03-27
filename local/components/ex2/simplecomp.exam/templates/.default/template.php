@@ -1,9 +1,13 @@
 <?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 
+// Добавить дополнительную фильтрацию элементов в созданный простой компонент «Каталог товаров»
 if(isset($arResult['FILTER_LINK'])) echo GetMessage("FILTER").$arResult['FILTER_LINK']."</br>";
+
+// Добавить управление элементами – «Эрмитаж» в созданный простой компонент «Каталог товаров»
 
 $this->AddEditAction('iblock_'.$arResult['IBLOCK_ID'], $arResult['ADD_ELEMENT_LINK'], CIBlock::GetArrayByID($arResult["IBLOCK_ID"], "ELEMENT_ADD"));
 
+//[ex2-107] Автоматический сброс кеша в компоненте при изменении элемента информационного блока «Услуги»
 echo GetMessage('METCA_TIME').time()."</br>";
 
 echo '---<br/><br/>';

@@ -1,6 +1,6 @@
 <?
 if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
-
+// link rel="canonical" для детальной новости
 if(isset($arParams['IBLOCK_CANONICAL']) && $bid = (int) $arParams['IBLOCK_CANONICAL']){
 
     $res = CIBlockElement::GetList(

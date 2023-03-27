@@ -9,6 +9,10 @@
 /** @global CUser $USER */
 /** @global CMain $APPLICATION */
 
+
+// [ex2-25] Создание комплексного компонента «Моя фотогалерея»
+
+
 if($arParams["USE_FILTER"]=="Y")
 {
 	if(strlen($arParams["FILTER_NAME"])<=0 || !preg_match("/^[A-Za-z_][A-Za-z01-9_]*$/", $arParams["FILTER_NAME"]))
