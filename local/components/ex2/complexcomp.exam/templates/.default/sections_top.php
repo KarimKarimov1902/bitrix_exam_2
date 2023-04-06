@@ -17,6 +17,7 @@ $this->setFrameMode(true);
 $url = $arResult['FOLDER'].str_replace(array('#PARAM1#','#PARAM2#'), array('123','456'),$arResult['URL_TEMPLATES']['exampage']);
 
 ?>
+<!-- [ex2-25] Создание комплексного компонента «Моя фотогалерея» -->
 <?=GetMessage("EXAM_TEXT_LINK_CP_PHOTO")?> <a href="<?=$url?>"><?=$url?></a>
 
 <?$APPLICATION->IncludeComponent(

@@ -2,6 +2,14 @@
     const PRODUCT_IBLOCK = 2;
     const MANAGER_GROUP = 5;
     const METATEG_IBLOCK = 6;
+
+    /* файл /bitrix/php_interface/dbconn.php
+
+    определим константу LOG_FILENAME, в которой зададим путь к лог-файлу
+    define("LOG_FILENAME", $_SERVER["DOCUMENT_ROOT"]."/log.txt");
+    // Сохраним в лог сообщение
+    AddMessage2Log("Произвольный текст сообщения", "my_module_id");
+    */
     //[ex2-50] Проверка при деактивации товара 
     AddEventHandler("iblock", "OnBeforeIBlockElementUpdate",  "OnBeforeIBlockElementUpdateHandler");
 

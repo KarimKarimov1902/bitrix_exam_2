@@ -25,6 +25,7 @@ IncludeTemplateLangFile(__FILE__);
 		
 	</style>
 	<![endif]-->
+	<!-- Установить значение тега meta «specialdate» в компоненте news.list -->
 	<meta property= "specialdate" content="<?= $APPLICATION->ShowProperty('specialdate'); ?>">
 	<title><?$APPLICATION->ShowTitle()?></title>
 </head>
@@ -126,6 +127,7 @@ $APPLICATION->IncludeFile(
 				<div class="content-block">
 					<div class="content-block-inner">
 						<h3><?=GetMessage('CFT_LANG_CANGE')?></h3>
+						<!-- Добавить англоязычную версию сайта (один инфоблок). -->
 						<?$APPLICATION->IncludeComponent(
 							"bitrix:main.site.selector",
 							"selected",
@@ -149,7 +151,8 @@ $APPLICATION->IncludeFile(
 						?>
 					</div>
 				</div>
-				
+
+				<!-- Добавить отображение данных в шаблон сайта -->
 				<? $APPLICATION->ShowProperty("simplecomp_exam"); ?>
 
 				<div class="information-block">

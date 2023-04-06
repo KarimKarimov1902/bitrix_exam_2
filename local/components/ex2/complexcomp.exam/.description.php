@@ -7,7 +7,7 @@ $arComponentDescription = array(
 	"COMPLEX" => "Y",
 	"PATH" => array(
 		"ID" => "ex2simple",
-		"NAME" => GetMessage("IBLOCK_PHOTO_SECTION"),
+		"NAME" => GetMessage("IBLOCK_PHOTO_SECTION"), // [ex2-25] Создание комплексного компонента «Моя фотогалерея»
 	),
 );
 ?>

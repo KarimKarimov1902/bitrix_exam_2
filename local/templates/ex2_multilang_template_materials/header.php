@@ -56,6 +56,7 @@ IncludeTemplateLangFile(__FILE__);
 				<tr>
 					<td id="banner-image"><div><img src="<?=SITE_TEMPLATE_PATH?>/images/head.jpg" /></div></td>
 					<td id="banner-slogan">
+					<!-- [ex2-102] Добавить англоязычную версию сайта (один инфоблок). -->
 						<?$APPLICATION->IncludeComponent(
 							"bitrix:main.include",
 							"",

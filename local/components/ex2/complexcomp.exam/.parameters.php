@@ -89,7 +89,7 @@ $arComponentParameters = array(
 				"DEFAULT" => "#SECTION_ID#/#ELEMENT_ID#/",
 				"VARIABLES" => array("ELEMENT_ID", "SECTION_ID"),
 			),
-				
+			// [ex2-25] Создание комплексного компонента «Моя фотогалерея»
 			"exampage" => array(
 				"NAME" => GetMessage("EXAM_PAGE"),
 				"DEFAULT" => "exam/new/#PARAM1#/?PARAM2=#PARAM2#",

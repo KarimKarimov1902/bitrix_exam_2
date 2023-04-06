@@ -157,7 +157,10 @@ if ($this->StartResultCache(false, array($USER->GetUserGroupArray(), $arNavigati
 	//Добавить пункт «ИБ в админке» в выпадающем меню компонента.
 	$res = CIBlock::GetByID($iblockProd);
 	$ar_res = $res->GetNext();
-
+	/**
+	 * Главный модуль
+	 * Классы -> CBitrixComponent -> AddIncludeAreaIcon (создан ранее 8.6.0)
+	 */
 	$this->AddIncludeAreaIcon(
 		array(
 			'URL'   =>"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=".$iblockProd."&type=".$ar_res['IBLOCK_TYPE_ID']."&lang=ru&find_el_y=Y&clear_filter=Y&apply_filter=Y",
