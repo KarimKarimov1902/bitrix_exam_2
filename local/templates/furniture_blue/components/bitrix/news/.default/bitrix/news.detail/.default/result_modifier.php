@@ -16,4 +16,7 @@ if(isset($arParams['IBLOCK_CANONICAL']) && $bid = (int) $arParams['IBLOCK_CANONI
         $arResult['CANONICAL_LINK'] = $fields['NAME'];
     }
 }
+
+
+
 ?>
