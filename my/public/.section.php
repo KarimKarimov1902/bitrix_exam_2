@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Публичные";
+$arDirProperties = Array(
+
+);
+?>

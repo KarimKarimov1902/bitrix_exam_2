@@ -1,0 +1,275 @@
+2018-03-31 08:38:36--NULL
+2018-03-31 08:38:40--NULL
+2018-03-31 08:39:01--NULL
+2018-03-31 08:40:01--NULL
+2018-03-31 08:41:01--'/home/bitrix/www/bitrix/modules/main/tools/'
+2018-03-31 08:41:02--'/products/'
+2018-03-31 08:42:01--'/home/bitrix/www/bitrix/modules/main/tools/'
+2018-03-31 08:42:42--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:04:25--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:06:01--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:06:26--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:09:20--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:12:11--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:12:22--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:14:23--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:14:27--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:16:30--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:19:19--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:20:15--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:21:10--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:22:54--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:23:15--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:30:53--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-01 09:52:59--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-03 10:44:55--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-03 10:52:32--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-04 09:21:36--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)
+2018-04-14 01:32:11--array (
+  'LAST_MODIFIED' => '26.05.2010 00:00:00',
+  'DATE_FROM' => '26.05.2010 00:00:00',
+  'DATE_TO' => false,
+  'TITLE' => 'Международная мебельная выставка SALON DEL MOBILE',
+  'PARAM1' => 'news',
+  'PARAM2' => '1',
+  'SITE_ID' => 
+  array (
+    0 => 's1',
+    1 => 's2',
+  ),
+  'PERMISSIONS' => 
+  array (
+    'G2' => 'G2',
+    'G1' => 'G1',
+    'G5' => 'G5',
+  ),
+  'URL' => '=ID=2&EXTERNAL_ID=8&IBLOCK_SECTION_ID=&IBLOCK_TYPE_ID=news&IBLOCK_ID=1&IBLOCK_CODE=furniture_news_s1&IBLOCK_EXTERNAL_ID=furniture_news_s1&CODE=',
+  'BODY' => 'В 2010 году выставка Salon del Mobile обещает быть еще более расширенной и интересной. 
+В 2010 году выставка Salon del Mobile обещает быть еще более расширенной и интересной. На выставке Salon del Mobile будут представлены все типы мебели для офиса и дома от спален и гостиных до VIP-кабинетов, включая оборудование для сада и детской мебели. Заявки на участие подали более чем 1 500 компаний со всего мира. Предполагается, что за время проведения выставки ее посетят более 300 000 тысяч человек. Экспозиция выставки разместится на общей площади 149 871 кв.м. В 2010 году эта поистине грандиозная выставка будет проводиться уже в 10-й раз.',
+  'TAGS' => '',
+  'MODULE_ID' => 'iblock',
+  'ITEM_ID' => 2,
+)
+2018-04-14 01:42:34--array (
+  'LAST_MODIFIED' => '25.05.2010 00:00:00',
+  'DATE_FROM' => '25.05.2010 00:00:00',
+  'DATE_TO' => false,
+  'TITLE' => 'С 20 по 23 апреля 2010 года состоится Мебельный Ф',
+  'PARAM1' => 'news',
+  'PARAM2' => '1',
+  'SITE_ID' => 
+  array (
+    0 => 's1',
+    1 => 's2',
+  ),
+  'PERMISSIONS' => 
+  array (
+    'G2' => 'G2',
+    'G1' => 'G1',
+    'G5' => 'G5',
+  ),
+  'URL' => '=ID=1&EXTERNAL_ID=1&IBLOCK_SECTION_ID=&IBLOCK_TYPE_ID=news&IBLOCK_ID=1&IBLOCK_CODE=furniture_news_s1&IBLOCK_EXTERNAL_ID=furniture_news_s1&CODE=',
+  'BODY' => 'С 20 по 23 апреля 2010 года состоится Мебельный Форум Беларуси&ndash; важнейшее мероприятии отрасли в текущем году.
+С 20 по 23 апреля 2010 года состоится Мебельный Форум Беларуси&ndash; важнейшее мероприятии отрасли в текущем году. В экспозиции принимают участие свыше 160 компаний из Беларуси, Австрии, Латвии, Литвы, России, Польши иУкраины. В составе форума состоится пять выставок:"Минский мебельный салон", "Мебельные технологии", "ОфисКомфорт", "Кухня" и "Домотех". Экспозиция будет строиться по принципу двух тематических секторов:готовой мебелии материалов для ее производства.В секторе готовой мебели будут представлены:корпусная и мягкая мебель;мебель для детей и молодежи;предметы интерьера;кухонная мебель;мебель для офиса и административных зданий.В секторе материалов для производства мебели будут демонстрироваться новинки рынка мебельной фурнитуры, материалов, обивочных тканей, элементов и аксессуаров для производства мебели.Помимо расширенной экспозиции пяти тематических выставок "Экспофорум" подготовил разнообразную деловую программу Мебельного форума. В рамках выставки состоятся семинары и мастер-классы. И поистине масштабным в этом году обещает стать республиканский конкурс форума "Народное признание". В этом году он выходит за рамки выставки и становится республиканским смотром образцов мебели.Мебельный Форумпредоставляет специалистам возможность познакомиться с тенденциями мебельной моды, провести переговоры, получить практические предложения рынка, увидеть перспективы развития и новые конкурентные преимущества. Впервые для участников конкурса будет подготовлен маркетинговый отчет по результатам опроса посетителей выставок Мебельного Форума.Прием заявок на участие в конкурсе осуществляется до 12 апреля 2010 года.',
+  'TAGS' => '',
+  'MODULE_ID' => 'iblock',
+  'ITEM_ID' => 1,
+)
+2018-04-14 01:42:37--array (
+  'LAST_MODIFIED' => '26.05.2010 00:00:00',
+  'DATE_FROM' => '26.05.2010 00:00:00',
+  'DATE_TO' => false,
+  'TITLE' => 'В 2010 году выставка Salon del Mobile обещает быть',
+  'PARAM1' => 'news',
+  'PARAM2' => '1',
+  'SITE_ID' => 
+  array (
+    0 => 's1',
+    1 => 's2',
+  ),
+  'PERMISSIONS' => 
+  array (
+    'G2' => 'G2',
+    'G1' => 'G1',
+    'G5' => 'G5',
+  ),
+  'URL' => '=ID=2&EXTERNAL_ID=8&IBLOCK_SECTION_ID=&IBLOCK_TYPE_ID=news&IBLOCK_ID=1&IBLOCK_CODE=furniture_news_s1&IBLOCK_EXTERNAL_ID=furniture_news_s1&CODE=',
+  'BODY' => 'В 2010 году выставка Salon del Mobile обещает быть еще более расширенной и интересной. 
+В 2010 году выставка Salon del Mobile обещает быть еще более расширенной и интересной. На выставке Salon del Mobile будут представлены все типы мебели для офиса и дома от спален и гостиных до VIP-кабинетов, включая оборудование для сада и детской мебели. Заявки на участие подали более чем 1 500 компаний со всего мира. Предполагается, что за время проведения выставки ее посетят более 300 000 тысяч человек. Экспозиция выставки разместится на общей площади 149 871 кв.м. В 2010 году эта поистине грандиозная выставка будет проводиться уже в 10-й раз.',
+  'TAGS' => '',
+  'MODULE_ID' => 'iblock',
+  'ITEM_ID' => 2,
+)
+2018-04-14 01:43:37--array (
+  'LAST_MODIFIED' => '26.05.2010 00:00:00',
+  'DATE_FROM' => '26.05.2010 00:00:00',
+  'DATE_TO' => false,
+  'TITLE' => 'В 2010 году выставка Salon del Mobile обещает быть',
+  'PARAM1' => 'news',
+  'PARAM2' => '1',
+  'SITE_ID' => 
+  array (
+    0 => 's1',
+    1 => 's2',
+  ),
+  'PERMISSIONS' => 
+  array (
+    'G2' => 'G2',
+    'G1' => 'G1',
+    'G5' => 'G5',
+  ),
+  'URL' => '=ID=2&EXTERNAL_ID=8&IBLOCK_SECTION_ID=&IBLOCK_TYPE_ID=news&IBLOCK_ID=1&IBLOCK_CODE=furniture_news_s1&IBLOCK_EXTERNAL_ID=furniture_news_s1&CODE=',
+  'BODY' => 'В 2010 году выставка Salon del Mobile обещает быть еще более расширенной и интересной. 
+В 2010 году выставка Salon del Mobile обещает быть еще более расширенной и интересной. На выставке Salon del Mobile будут представлены все типы мебели для офиса и дома от спален и гостиных до VIP-кабинетов, включая оборудование для сада и детской мебели. Заявки на участие подали более чем 1 500 компаний со всего мира. Предполагается, что за время проведения выставки ее посетят более 300 000 тысяч человек. Экспозиция выставки разместится на общей площади 149 871 кв.м. В 2010 году эта поистине грандиозная выставка будет проводиться уже в 10-й раз.',
+  'TAGS' => '',
+  'MODULE_ID' => 'iblock',
+  'ITEM_ID' => 2,
+)
+2018-04-14 02:11:46--array (
+  'IBLOCK_ID' => '11',
+  'ID' => '162',
+  'PROPERTY_TITLE_VALUE' => 'Каталог всего!',
+  'PROPERTY_TITLE_VALUE_ID' => '342',
+  'PROPERTY_DESC_VALUE' => 'Тут есть все и даже больше',
+  'PROPERTY_DESC_VALUE_ID' => '343',
+)

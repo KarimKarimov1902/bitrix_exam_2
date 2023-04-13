@@ -1,0 +1,1 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?> <?/*<div class="content-block">	<div class="content-block-inner">		<h3>Товары этого раздела!</h3>		<?$APPLICATION->ShowViewContent('list-elem-name');?>			</div></div>*/?>	<?$APPLICATION->ShowViewContent('list-elem-name');?>	

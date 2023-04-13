@@ -1,0 +1,1120 @@
+2016-11-01 16:32:25 -  - exec CUpdateClient::GetUpdatesList
+2016-11-01 16:32:25 -  - exec CUpdateClient::CollectRequestData
+2016-11-01 16:32:25 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.0.12&VERSION=16.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-01 16:32:25 -  - exec CUpdateClient::GetHTTPPage
+2016-11-01 16:32:25 -  - TIME GetUpdatesList(request) 0.087 sec
+2016-11-01 16:32:25 -  - exec CUpdateClient::ParseServerData
+2016-11-01 16:32:43 -  - exec CUpdateClient::GetUpdatesList
+2016-11-01 16:32:43 -  - exec CUpdateClient::CollectRequestData
+2016-11-01 16:32:43 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.0.12&VERSION=16.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-01 16:32:43 -  - exec CUpdateClient::GetHTTPPage
+2016-11-01 16:32:44 -  - TIME GetUpdatesList(request) 0.082 sec
+2016-11-01 16:32:44 -  - exec CUpdateClient::ParseServerData
+2016-11-01 16:32:47 -  - exec CUpdateClient::UpdateUpdate
+2016-11-01 16:32:47 -  - exec CUpdateClient::CollectRequestData
+2016-11-01 16:32:47 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.0.12&VERSION=16.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&query_type=updateupdate
+2016-11-01 16:32:47 -  - exec CUpdateClient::GetHTTPPage
+2016-11-01 16:32:49 -  - TIME UpdateUpdate(request) 1.959 sec
+2016-11-01 16:32:49 -  - exec CUpdateClient::UnGzipArchive
+2016-11-01 16:32:49 -  - TIME UnGzipArchive 0.055 sec
+2016-11-01 16:32:49 -  - exec CUpdateClient::ParseServerData
+2016-11-01 16:32:49 - CURV - Update updated successfully!
+2016-11-01 16:32:49 - UPD_SUCCESS - Update system updated
+2016-11-01 16:32:51 -  - exec CUpdateClient::GetUpdatesList
+2016-11-01 16:32:51 -  - exec CUpdateClient::CollectRequestData
+2016-11-01 16:32:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-01 16:32:51 -  - exec CUpdateClient::GetHTTPPage
+2016-11-01 16:32:51 -  - TIME GetUpdatesList(request) 0.144 sec
+2016-11-01 16:32:51 -  - exec CUpdateClient::ParseServerData
+2016-11-01 16:32:51 -  - exec CUpdateClient::executeCounters
+2016-11-01 16:32:51 -  - exec CUpdateClient::CollectRequestData
+2016-11-01 16:32:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&query_type=counter&cntr_result[3]=5.3
+2016-11-01 16:32:51 -  - exec CUpdateClient::GetHTTPPage
+2016-11-01 16:32:51 -  - TIME executeCounters 0.11 sec
+2016-11-01 16:33:20 -  - exec CUpdateClient::GetUpdatesList
+2016-11-01 16:33:20 -  - exec CUpdateClient::CollectRequestData
+2016-11-01 16:33:20 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-01 16:33:20 -  - exec CUpdateClient::GetHTTPPage
+2016-11-01 16:33:20 -  - TIME GetUpdatesList(request) 0.117 sec
+2016-11-01 16:33:20 -  - exec CUpdateClient::ParseServerData
+2016-11-01 16:33:24 -  - exec CUpdateClient::RegisterVersion
+2016-11-01 16:33:24 -  - exec CUpdateClient::CollectRequestData
+2016-11-01 16:33:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&query_type=register
+2016-11-01 16:33:24 -  - exec CUpdateClient::GetHTTPPage
+2016-11-01 16:33:24 -  - TIME RegisterVersion(request) 0.073 sec
+2016-11-01 16:33:24 -  - exec CUpdateClient::UnGzipArchive
+2016-11-01 16:33:24 -  - TIME UnGzipArchive 0.002 sec
+2016-11-01 16:33:24 -  - exec CUpdateClient::ParseServerData
+2016-11-01 16:33:24 - CURV - Product registered successfully!
+2016-11-01 16:33:24 - UPD_SUCCESS - Registered
+2016-11-01 16:44:22 -  - exec CUpdateClient::GetUpdatesList
+2016-11-01 16:44:22 -  - exec CUpdateClient::CollectRequestData
+2016-11-01 16:44:22 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-01 16:44:22 -  - exec CUpdateClient::GetHTTPPage
+2016-11-01 16:44:22 -  - TIME GetUpdatesList(request) 0.13 sec
+2016-11-01 16:44:22 -  - exec CUpdateClient::ParseServerData
+2016-11-01 17:20:20 -  - exec CUpdateClient::GetUpdatesList
+2016-11-01 17:20:20 -  - exec CUpdateClient::CollectRequestData
+2016-11-01 17:20:20 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-01 17:20:20 -  - exec CUpdateClient::GetHTTPPage
+2016-11-01 17:20:20 -  - TIME GetUpdatesList(request) 0.097 sec
+2016-11-01 17:20:20 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:20 -  - exec CUpdateClient::GetUpdatesList
+2016-11-25 09:27:20 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:21 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:21 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:21 -  - TIME GetUpdatesList(request) 0.125 sec
+2016-11-25 09:27:21 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:21 -  - exec CUpdateClient::executeCounters
+2016-11-25 09:27:21 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:21 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&query_type=counter&cntr_result[19]=0&cntr_result[51]=0
+2016-11-25 09:27:21 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:21 -  - TIME executeCounters 0.082 sec
+2016-11-25 09:27:25 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:25 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:25 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.11&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:25 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:25 -  - TIME LoadModulesUpdates(request) 0.078 sec
+2016-11-25 09:27:25 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:25 - S - STEP
+2016-11-25 09:27:25 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:25 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:25 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:25 -  - loadFile
+2016-11-25 09:27:25 - U - RETURN
+2016-11-25 09:27:25 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:26 -  - TIME UnGzipArchive 0.243 sec
+2016-11-25 09:27:26 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php'
+2016-11-25 09:27:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': CopyFiles(install/components, components)
+2016-11-25 09:27:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': CopyFiles(install/css, css)
+2016-11-25 09:27:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': CopyFiles(install/js, js)
+2016-11-25 09:27:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': CopyFiles(install/panel, panel)
+2016-11-25 09:27:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': CopyFiles(install/gadgets, gadgets)
+2016-11-25 09:27:26 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(DELETE FROM b_user_counter WHERE CODE LIKE '**L%' AND TIMESTAMP_X = '3000-01-01 00:00:00', )
+2016-11-25 09:27:26 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(ALTER TABLE b_user_counter MODIFY SENT char(1) null default '0', )
+2016-11-25 09:27:27 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(, )
+2016-11-25 09:27:27 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(UPDATE b_user_counter SET SENT = '0' WHERE SENT IS NULL, )
+2016-11-25 09:27:27 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(ALTER TABLE b_user_field_confirm MODIFY DATE_CHANGE timestamp, )
+2016-11-25 09:27:27 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(ALTER TABLE b_module MODIFY DATE_ACTIVE timestamp, )
+2016-11-25 09:27:27 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(ALTER TABLE b_module_to_module MODIFY TIMESTAMP_X timestamp, )
+2016-11-25 09:27:27 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(ALTER TABLE b_file MODIFY TIMESTAMP_X timestamp, )
+2016-11-25 09:27:27 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(ALTER TABLE b_event_log MODIFY TIMESTAMP_X timestamp, )
+2016-11-25 09:27:27 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055245/main/updater16.0.12.php': Query(ALTER TABLE b_user_hit_auth MODIFY TIMESTAMP_X timestamp, )
+2016-11-25 09:27:27 -  - TIME UpdateStepModules 1.113 sec
+2016-11-25 09:27:27 - UPD_SUCCESS - Updated: main (16.0.12)<br><li>Исправлена проблема с показом загруженных картинок с расширением .svg. <li>Оптимизирован показ свойства \"Привязка к разделам с автозаполнением\". <li>В инсталлятор добавлена проверка настроек PHP date.timezone и JSON. <li>Исправлен ряд интерфейсных ошибок. <li>Улучшена совместимость с PHP 7. <li>Улучшена совместимость с Mysql 5.7. <li>Разработчикам: композит: для страниц, в которых отключен аяксовый хит (setAutoUpdate(false)), добавилась возможность указать время жизни кеша (setAutoUpdateTTL). 
+2016-11-25 09:27:28 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:28 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.12&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.12&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:28 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:28 -  - TIME LoadModulesUpdates(request) 0.117 sec
+2016-11-25 09:27:28 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:28 - S - STEP
+2016-11-25 09:27:28 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:29 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:29 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:29 -  - loadFile
+2016-11-25 09:27:29 - U - RETURN
+2016-11-25 09:27:29 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:29 -  - TIME UnGzipArchive 0.043 sec
+2016-11-25 09:27:29 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055249/main/updater16.0.13.php'
+2016-11-25 09:27:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055249/main/updater16.0.13.php': CopyFiles(install/components, components)
+2016-11-25 09:27:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055249/main/updater16.0.13.php': CopyFiles(install/js, js)
+2016-11-25 09:27:29 -  - TIME UpdateStepModules 0.115 sec
+2016-11-25 09:27:29 - UPD_SUCCESS - Updated: main (16.0.13)<br><li>Исправлен ряд интерфейсных ошибок.
+2016-11-25 09:27:30 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:30 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.13&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.13&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:30 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:30 -  - TIME LoadModulesUpdates(request) 0.075 sec
+2016-11-25 09:27:30 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:30 - S - STEP
+2016-11-25 09:27:30 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:30 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:30 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:30 -  - loadFile
+2016-11-25 09:27:30 - U - RETURN
+2016-11-25 09:27:30 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:30 -  - TIME UnGzipArchive 0.152 sec
+2016-11-25 09:27:31 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php'
+2016-11-25 09:27:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': CopyFiles(install/components, components)
+2016-11-25 09:27:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': CopyFiles(install/css, css)
+2016-11-25 09:27:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': CopyFiles(install/js, js)
+2016-11-25 09:27:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': CopyFiles(install/panel, panel)
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(update b_user_option set user_id=0 where user_id is null, )
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(delete o1 FROM b_user_option o1, b_user_option o2 WHERE o1.id > o2.id AND o1.user_id = o2.user_id and o1.category=o2.category and o1.name=o2.name, )
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(drop index ix_user_option_user on b_user_option, )
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(ALTER TABLE b_user_option MODIFY USER_ID int not null, )
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(CREATE UNIQUE INDEX ux_user_category_name ON b_user_option (USER_ID, CATEGORY, NAME), )
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(alter table b_event_attachment add column IS_FILE_COPIED char(1) not null default 'Y', )
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(, )
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(, )
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(, )
+2016-11-25 09:27:31 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(ALTER TABLE b_rating_rule
+			MODIFY CONDITION_CONFIG text null,
+			MODIFY ACTION_CONFIG text null, )
+2016-11-25 09:27:32 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055250/main/updater16.0.14.php': Query(ALTER TABLE b_checklist MODIFY TESTER varchar(255), )
+2016-11-25 09:27:32 -  - TIME UpdateStepModules 1.322 sec
+2016-11-25 09:27:32 - UPD_SUCCESS - Updated: main (16.0.14)<br><b>Композитный сайт</b> &mdash; Новый режим \"<u>Автокомпозит</u>\": все неадаптированные компоненты автоматически создают динамические области с заглушкой в виде своего содержимого. Перед включением этого режима необходимо очистить кеш компонентов. &mdash; Настройка \"<u>Режим перезаписи кеша</u>\": стандартный режим, стандартный режим с задержкой перезаписи и режим без фонового ajax-запроса. &mdash; Настройка \"<u>Голосование шаблона компонента по умолчанию</u>\" позволяет указать, как голосуют все неадаптированные шаблоны проекта. Данный параметр можно переопределить в настройках конкретного компонента. &mdash; Новый алгоритм обновления динамических областей. Если контент заглушки не изменился при фоновом ajax-запросе, данные динамической области не приходят и не обновляются. &mdash; Новый алгоритм разметки динамических областей. Вместо div-контейнера, создается пара невидимых тегов, не влияющих на верстку страницы. &mdash; Протокол HTTPS поддерживается по умолчанию. &mdash; Добавлена настройка отключения кнопки \"Быстро с 1С-Битрикс\". &mdash; Срок действия лицензии теперь не влияет на работу композитного сайта. &mdash; Настройка \"Параметры URL, при которых не будет работать композитный режим\". &mdash; Оптимизирован механизм создания кеша для highload-проектов. &mdash; Новая настройка \"Игнорировать следующие параметры URL\" позволяет не учитывать определенные параметры в адресе страницы (например, utm_source, fb_action_ids и др.) &mdash; HTML-кеширование заменено технологией \"Композитный сайт\". Для редакции \"Первый сайт\" необходимо очистить кеш компонентов. <li>Исправлен ряд интерфейсных ошибок. <li>Доработки и исправления в мобильном шаблоне main.interface.form. <li>Исправлена возможная проблема дублирования записей настроек пользователей. <li>При загрузке решения из Marketplace через мастер установки продукта теперь скачиваются все доступные обновления. <li>Исправлена ошибка загрузки картинок в публичном разделе сайта. <li>Разработчикам: класс Bitrix\\Main\\Web\\HttpClient теперь принимает опции по умолчанию из настроек конфигурации \"http_client_options\". 
+2016-11-25 09:27:33 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:33 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:33 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.0&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:33 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:33 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2016-11-25 09:27:33 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:33 - S - STEP
+2016-11-25 09:27:33 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:33 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:33 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:33 -  - loadFile
+2016-11-25 09:27:33 - U - RETURN
+2016-11-25 09:27:33 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:33 -  - TIME UnGzipArchive 0.016 sec
+2016-11-25 09:27:33 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055253/fileman/updater16.5.1.php'
+2016-11-25 09:27:33 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055253/fileman/updater16.5.1.php': CopyFiles(install/js, js)
+2016-11-25 09:27:33 -  - TIME UpdateStepModules 0.089 sec
+2016-11-25 09:27:33 - UPD_SUCCESS - Updated: fileman (16.5.1)<br><li>Исправлена ошибка некорректного цитирования ссылок и упоминаний сотрудников в визуальном редакторе. <li>Исправлена ошибка отображения редатора на некотором содержимом. <li>Исправлен ряд интерфейсных ошибок. 
+2016-11-25 09:27:34 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:34 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.1&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:34 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:34 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2016-11-25 09:27:34 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:34 - S - STEP
+2016-11-25 09:27:34 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:34 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:34 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:34 -  - loadFile
+2016-11-25 09:27:34 - U - RETURN
+2016-11-25 09:27:34 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:34 -  - TIME UnGzipArchive 0.022 sec
+2016-11-25 09:27:35 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055254/fileman/updater16.5.2.php'
+2016-11-25 09:27:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055254/fileman/updater16.5.2.php': CopyFiles(install/js, js)
+2016-11-25 09:27:35 -  - TIME UpdateStepModules 0.043 sec
+2016-11-25 09:27:35 - UPD_SUCCESS - Updated: fileman (16.5.2)<br><li>Доработки модуля для корректной работы с Автокомпозитным режимом. 
+2016-11-25 09:27:35 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:35 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:35 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.2&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:35 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:35 -  - TIME LoadModulesUpdates(request) 0.087 sec
+2016-11-25 09:27:35 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:35 - S - STEP
+2016-11-25 09:27:35 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:36 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:36 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:36 -  - loadFile
+2016-11-25 09:27:36 - U - RETURN
+2016-11-25 09:27:36 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:36 -  - TIME UnGzipArchive 0.011 sec
+2016-11-25 09:27:36 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055256/fileman/updater16.5.3.php'
+2016-11-25 09:27:36 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055256/fileman/updater16.5.3.php': CopyFiles(install/components, components)
+2016-11-25 09:27:36 -  - TIME UpdateStepModules 0.092 sec
+2016-11-25 09:27:36 - UPD_SUCCESS - Updated: fileman (16.5.3)<br><li>Исправление компонентов Google Maps.
+2016-11-25 09:27:37 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:37 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:37 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.3&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:37 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:37 -  - TIME LoadModulesUpdates(request) 0.098 sec
+2016-11-25 09:27:37 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:37 - S - STEP
+2016-11-25 09:27:37 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:37 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:37 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:37 -  - loadFile
+2016-11-25 09:27:37 - U - RETURN
+2016-11-25 09:27:37 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:37 -  - TIME UnGzipArchive 0.075 sec
+2016-11-25 09:27:37 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055257/fileman/updater16.5.4.php'
+2016-11-25 09:27:37 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055257/fileman/updater16.5.4.php': CopyFiles(install/js, js)
+2016-11-25 09:27:37 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055257/fileman/updater16.5.4.php': CopyFiles(install/components, components)
+2016-11-25 09:27:38 -  - TIME UpdateStepModules 0.551 sec
+2016-11-25 09:27:38 - UPD_SUCCESS - Updated: fileman (16.5.4)<br><li>Доработан режим очистки при вставке содержимого в визуальный редактор. <li>Исправлен ряд ошибок в модуле.
+2016-11-25 09:27:39 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:39 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:39 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.4&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:39 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:39 -  - TIME LoadModulesUpdates(request) 0.09 sec
+2016-11-25 09:27:39 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:39 - S - STEP
+2016-11-25 09:27:39 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:39 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:39 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:39 -  - loadFile
+2016-11-25 09:27:39 - U - RETURN
+2016-11-25 09:27:39 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:39 -  - TIME UnGzipArchive 0.019 sec
+2016-11-25 09:27:39 -  - TIME UpdateStepModules 0.003 sec
+2016-11-25 09:27:39 - UPD_SUCCESS - Updated: fileman (16.5.5)<br><li>Исправлены проблемы безопасности в пользовательском поле типа \"видео\". 
+2016-11-25 09:27:40 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:40 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:40 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.0&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:40 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:40 -  - TIME LoadModulesUpdates(request) 0.099 sec
+2016-11-25 09:27:40 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:40 - S - STEP
+2016-11-25 09:27:40 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:40 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:40 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:40 -  - loadFile
+2016-11-25 09:27:40 - U - RETURN
+2016-11-25 09:27:40 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:40 -  - TIME UnGzipArchive 0.026 sec
+2016-11-25 09:27:40 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055260/forum/updater16.5.1.php'
+2016-11-25 09:27:40 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055260/forum/updater16.5.1.php': CopyFiles(install/components, components)
+2016-11-25 09:27:41 -  - TIME UpdateStepModules 0.391 sec
+2016-11-25 09:27:41 - UPD_SUCCESS - Updated: forum (16.5.1)<br><li>Исправлена ошибка, при которой при отправке сообщения в форуме появлялась пустая страница. <li>Исправлена некорректная ссылка на профиль пользователя из списка проголосовавших за сообщение. <li>Незначительные изменения. 
+2016-11-25 09:27:42 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:42 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:42 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.4&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:42 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:42 -  - TIME LoadModulesUpdates(request) 0.09 sec
+2016-11-25 09:27:42 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:42 - S - STEP
+2016-11-25 09:27:42 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:42 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:42 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:42 -  - loadFile
+2016-11-25 09:27:42 - U - RETURN
+2016-11-25 09:27:42 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:42 -  - TIME UnGzipArchive 0.049 sec
+2016-11-25 09:27:42 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055262/iblock/updater16.0.5/index.php'
+2016-11-25 09:27:42 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055262/iblock/updater16.0.5/index.php': CopyFiles(install/components, components)
+2016-11-25 09:27:42 -  - TIME UpdateStepModules 0.392 sec
+2016-11-25 09:27:42 - UPD_SUCCESS - Updated: iblock (16.0.5)<br><li>В списке товаров добавлена возможность группового изменения цен. <li>Исправлена ошибка компонента catalog.smart.filter - компонент не позволял фильтровать по значению \'0\'. <li>Исправлены ошибки шаблона компонента catalog.element. <li>Исправлены незначительные ошибки административных страниц.
+2016-11-25 09:27:43 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:43 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:43 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.5&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:43 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:43 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2016-11-25 09:27:43 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:43 - S - STEP
+2016-11-25 09:27:43 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:44 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:44 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:44 -  - loadFile
+2016-11-25 09:27:44 - U - RETURN
+2016-11-25 09:27:44 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:44 -  - TIME UnGzipArchive 0.048 sec
+2016-11-25 09:27:44 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055264/iblock/updater16.0.6/index.php'
+2016-11-25 09:27:44 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055264/iblock/updater16.0.6/index.php': CopyFiles(install/components, components)
+2016-11-25 09:27:44 -  - TIME UpdateStepModules 0.148 sec
+2016-11-25 09:27:44 - UPD_SUCCESS - Updated: iblock (16.0.6)<br><li>Улучшена производительность административных страниц со списком элементов инфоблока. <li>Исправлена ошибка создания фасетного индекса. <li>Разработчикам: возможность настройки параметра INSTANT_RELOAD компонента catalog.smart.filter оставлена только в рамках шаблона комплексного компонента catalog. <li>Разработчикам: исправлена сортировка в методе CIBlockElement::GetList при использовании ключа nElementID в параметрах метода. <li>Разработчикам: исправлена ошибка запуска на агенте методов класса CIBlockPriceTools.
+2016-11-25 09:27:45 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:45 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:45 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.0.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:45 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:45 -  - TIME LoadModulesUpdates(request) 0.09 sec
+2016-11-25 09:27:45 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:45 - S - STEP
+2016-11-25 09:27:45 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:45 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:45 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:45 -  - loadFile
+2016-11-25 09:27:45 - U - RETURN
+2016-11-25 09:27:45 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:45 -  - TIME UnGzipArchive 0.018 sec
+2016-11-25 09:27:45 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055265/search/updater16.5.0.php'
+2016-11-25 09:27:45 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055265/search/updater16.5.0.php': CopyFiles(install/components, components)
+2016-11-25 09:27:45 -  - TIME UpdateStepModules 0.076 sec
+2016-11-25 09:27:45 - UPD_SUCCESS - Updated: search (16.5.0)<br><li>В объявления некоторых методов добавлено ключевое слово static. <li>Улучшен стемминг некоторых слов. <li>Добавлена поддержка sphinx 2.2.10 и php 7.0. <li>В компоненты добавлена поддержка фильтрации модуля \"Диск\". 
+2016-11-25 09:27:46 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:46 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:46 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.0.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:46 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:46 -  - TIME LoadModulesUpdates(request) 0.079 sec
+2016-11-25 09:27:46 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:46 - S - STEP
+2016-11-25 09:27:46 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:46 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:46 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:46 -  - loadFile
+2016-11-25 09:27:46 - U - RETURN
+2016-11-25 09:27:46 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:46 -  - TIME UnGzipArchive 0.006 sec
+2016-11-25 09:27:47 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055266/subscribe/updater16.5.0.php'
+2016-11-25 09:27:47 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055266/subscribe/updater16.5.0.php': CopyFiles(install/components, components)
+2016-11-25 09:27:47 -  - TIME UpdateStepModules 0.021 sec
+2016-11-25 09:27:47 - UPD_SUCCESS - Updated: subscribe (16.5.0)<br><li>В объявления некоторых методов добавлено ключевое слово static. <li>Исправлено кодирование заголовка получателя письма. <li>Добавлена возможность размещать шаблоны рассылок в папке /local/php_interface/subscribe/templates.
+2016-11-25 09:27:47 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:47 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:47 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.0&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:47 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:47 -  - TIME LoadModulesUpdates(request) 0.079 sec
+2016-11-25 09:27:47 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:47 - S - STEP
+2016-11-25 09:27:47 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:49 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:49 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:49 -  - loadFile
+2016-11-25 09:27:49 - U - RETURN
+2016-11-25 09:27:49 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:49 -  - TIME UnGzipArchive 0.02 sec
+2016-11-25 09:27:49 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055269/blog/updater16.5.1/index.php'
+2016-11-25 09:27:49 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055269/blog/updater16.5.1/index.php': CopyFiles(install/components, components)
+2016-11-25 09:27:49 -  - TIME UpdateStepModules 0.223 sec
+2016-11-25 09:27:49 - UPD_SUCCESS - Updated: blog (16.5.1)<br><li>Изменения, направленные на поддержку отправки push-уведомлений о сообщениях, адресованных всем сотрудникам корпоративного портала, либо в подразделение. <li>Незначительные изменения и исправления.
+2016-11-25 09:27:50 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:50 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.1&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:50 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:50 -  - TIME LoadModulesUpdates(request) 0.099 sec
+2016-11-25 09:27:50 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:50 - S - STEP
+2016-11-25 09:27:50 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:51 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:51 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:51 -  - loadFile
+2016-11-25 09:27:51 - U - RETURN
+2016-11-25 09:27:51 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:51 -  - TIME UnGzipArchive 0.003 sec
+2016-11-25 09:27:51 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055271/blog/updater16.5.2/index.php'
+2016-11-25 09:27:51 -  - TIME UpdateStepModules 0.005 sec
+2016-11-25 09:27:51 - UPD_SUCCESS - Updated: blog (16.5.2)<br><li>Исправлена ошибка предыдущего обновления, создающая некорректные почтовые уведомления для языков, отличных от русского, немецкого и английского.
+2016-11-25 09:27:52 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:52 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:52 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.2&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:52 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:52 -  - TIME LoadModulesUpdates(request) 0.077 sec
+2016-11-25 09:27:52 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:52 - S - STEP
+2016-11-25 09:27:52 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:52 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:52 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:52 -  - loadFile
+2016-11-25 09:27:52 - U - RETURN
+2016-11-25 09:27:52 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:52 -  - TIME UnGzipArchive 0.009 sec
+2016-11-25 09:27:52 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055272/blog/updater16.5.3.php'
+2016-11-25 09:27:52 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055272/blog/updater16.5.3.php': CopyFiles(install/components, components)
+2016-11-25 09:27:52 -  - TIME UpdateStepModules 0.049 sec
+2016-11-25 09:27:52 - UPD_SUCCESS - Updated: blog (16.5.3)<br><li>Комментарии адаптированы под автокомпозитный режим сайта. 
+2016-11-25 09:27:54 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:54 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:54 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:54 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:54 -  - TIME LoadModulesUpdates(request) 0.112 sec
+2016-11-25 09:27:54 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:54 - S - STEP
+2016-11-25 09:27:54 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:54 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:54 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:54 -  - loadFile
+2016-11-25 09:27:54 - U - RETURN
+2016-11-25 09:27:54 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:54 -  - TIME UnGzipArchive 0.015 sec
+2016-11-25 09:27:54 -  - TIME UpdateStepModules 0.017 sec
+2016-11-25 09:27:54 - UPD_SUCCESS - Updated: perfmon (16.5.0)<br><li>Исправлена ошибка определения наличия InnoDB. <li>В объявления некоторых методов добавлено ключевое слово static. <li>Добавлены дополнительные возможности фильтрации записей таблиц. <li>Для форм редактирования записей изменён идентификатор формы для различения в обработчиках событий. <li>Исправлена ошибка теста масштабируемости при включенной смене идентификатора сессии. <li>Улучшена диагностика настроек акселераторов: xcache, opcache и apc. <li>Добавлена группировка на странице списка компонентов. 
+2016-11-25 09:27:54 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:54 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:54 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.0.3&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:54 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:55 -  - TIME LoadModulesUpdates(request) 0.079 sec
+2016-11-25 09:27:55 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:55 - S - STEP
+2016-11-25 09:27:55 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:55 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:55 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:55 -  - loadFile
+2016-11-25 09:27:55 - U - RETURN
+2016-11-25 09:27:55 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:55 -  - TIME UnGzipArchive 0.013 sec
+2016-11-25 09:27:55 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055275/security/updater16.5.0.php'
+2016-11-25 09:27:55 -  - TIME UpdateStepModules 0.034 sec
+2016-11-25 09:27:55 - UPD_SUCCESS - Updated: security (16.5.0)<br><li>В объявления некоторых методов добавлено ключевое слово static. <li>Улучшена защита редиректов. <li>Улучшена работа контроля целостности файлов. 
+2016-11-25 09:27:56 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:56 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.3&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:56 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:56 -  - TIME LoadModulesUpdates(request) 0.071 sec
+2016-11-25 09:27:56 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:56 - S - STEP
+2016-11-25 09:27:56 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:56 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:56 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:56 -  - loadFile
+2016-11-25 09:27:56 - U - RETURN
+2016-11-25 09:27:56 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:56 -  - TIME UnGzipArchive 0.003 sec
+2016-11-25 09:27:56 -  - TIME UpdateStepModules 0.005 sec
+2016-11-25 09:27:56 - UPD_SUCCESS - Updated: socialservices (16.5.4)<br><li>Оптимизация процедуры авторизации на bitrix24.net. <li>Оптимизация работы с сервисом propertiesservice. 
+2016-11-25 09:27:56 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:56 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.4&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:56 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:56 -  - TIME LoadModulesUpdates(request) 0.105 sec
+2016-11-25 09:27:56 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:56 - S - STEP
+2016-11-25 09:27:56 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:57 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:57 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:57 -  - loadFile
+2016-11-25 09:27:57 - U - RETURN
+2016-11-25 09:27:57 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:57 -  - TIME UnGzipArchive 0.006 sec
+2016-11-25 09:27:57 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055277/socialservices/updater16.5.5.php'
+2016-11-25 09:27:57 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055277/socialservices/updater16.5.5.php': CopyFiles(install/components, components)
+2016-11-25 09:27:57 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055277/socialservices/updater16.5.5.php': CopyFiles(install/tools, tools)
+2016-11-25 09:27:57 -  - TIME UpdateStepModules 0.098 sec
+2016-11-25 09:27:57 - UPD_SUCCESS - Updated: socialservices (16.5.5)<br><li>Класс для работы с Dropbox теперь использует новую версию Dropbox API. <li>Клиент для интеграции \"Управление сайтом\" и \"Битрикс24\". <li>Исправлена ошибка авторизации через Битрикс24.Нетворк. 
+2016-11-25 09:27:59 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:59 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.0.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:59 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:27:59 -  - TIME LoadModulesUpdates(request) 0.095 sec
+2016-11-25 09:27:59 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:59 - S - STEP
+2016-11-25 09:27:59 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:27:59 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:59 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:27:59 -  - loadFile
+2016-11-25 09:27:59 - U - RETURN
+2016-11-25 09:27:59 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:27:59 -  - TIME UnGzipArchive 0.004 sec
+2016-11-25 09:27:59 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055279/clouds/updater16.0.1.php'
+2016-11-25 09:27:59 -  - TIME UpdateStepModules 0.045 sec
+2016-11-25 09:27:59 - UPD_SUCCESS - Updated: clouds (16.0.1)<br><li>Для облачных хранилищ, основанных на OpenStack, учитывается работа по https. <li>Добавлены события для отслеживания действий с файлами. 
+2016-11-25 09:27:59 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:27:59 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:27:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.0.1&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:27:59 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:00 -  - TIME LoadModulesUpdates(request) 0.074 sec
+2016-11-25 09:28:00 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:00 - S - STEP
+2016-11-25 09:28:00 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:00 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:00 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:00 -  - loadFile
+2016-11-25 09:28:00 - U - RETURN
+2016-11-25 09:28:00 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:00 -  - TIME UnGzipArchive 0.005 sec
+2016-11-25 09:28:00 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055280/clouds/updater16.5.0.php'
+2016-11-25 09:28:00 -  - TIME UpdateStepModules 0.021 sec
+2016-11-25 09:28:00 - UPD_SUCCESS - Updated: clouds (16.5.0)<br><li>В базовый класс сервисов добавлен метод переименования файлов. <li>В объявления некоторых методов добавлено ключевое слово static. <li>Для контейнеров Amazon S3, содержащих в названии точку, изменены правила формирования URL для протокола https. 
+2016-11-25 09:28:01 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:01 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.0&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:01 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:01 -  - TIME LoadModulesUpdates(request) 0.147 sec
+2016-11-25 09:28:01 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:02 - S - STEP
+2016-11-25 09:28:02 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:02 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:02 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:02 -  - loadFile
+2016-11-25 09:28:02 - U - RETURN
+2016-11-25 09:28:02 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:02 -  - TIME UnGzipArchive 0.003 sec
+2016-11-25 09:28:02 -  - TIME UpdateStepModules 0.004 sec
+2016-11-25 09:28:02 - UPD_SUCCESS - Updated: clouds (16.5.1)<br><li>Незначительные исправления административного интерфейса. 
+2016-11-25 09:28:03 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:03 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.1&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:03 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:03 -  - TIME LoadModulesUpdates(request) 0.095 sec
+2016-11-25 09:28:03 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:03 - S - STEP
+2016-11-25 09:28:03 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:03 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:03 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:03 -  - loadFile
+2016-11-25 09:28:03 - U - RETURN
+2016-11-25 09:28:03 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:03 -  - TIME UnGzipArchive 0.002 sec
+2016-11-25 09:28:03 -  - TIME UpdateStepModules 0.003 sec
+2016-11-25 09:28:03 - UPD_SUCCESS - Updated: clouds (16.5.2)<br><li>Оптимизировано количество обращений в облако при ресайзе картинок. 
+2016-11-25 09:28:04 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:04 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:04 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:04 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:04 -  - TIME LoadModulesUpdates(request) 0.102 sec
+2016-11-25 09:28:04 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:04 - S - STEP
+2016-11-25 09:28:04 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:04 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:04 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:04 -  - loadFile
+2016-11-25 09:28:04 - U - RETURN
+2016-11-25 09:28:04 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:04 -  - TIME UnGzipArchive 0.009 sec
+2016-11-25 09:28:04 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055284/bitrixcloud/updater16.0.1.php'
+2016-11-25 09:28:04 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055284/bitrixcloud/updater16.0.1.php': CopyFiles(install/components, components)
+2016-11-25 09:28:04 -  - TIME UpdateStepModules 0.049 sec
+2016-11-25 09:28:04 - UPD_SUCCESS - Updated: bitrixcloud (16.0.1)<br><li>Добавлены операции и уровни доступа. <li>В объявления некоторых методов добавлено ключевое слово static. 
+2016-11-25 09:28:05 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:05 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:05 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.3&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:05 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:05 -  - TIME LoadModulesUpdates(request) 0.112 sec
+2016-11-25 09:28:05 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:05 - S - STEP
+2016-11-25 09:28:05 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:06 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:06 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:06 -  - loadFile
+2016-11-25 09:28:06 - U - RETURN
+2016-11-25 09:28:06 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:06 -  - TIME UnGzipArchive 0.021 sec
+2016-11-25 09:28:06 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055286/mobileapp/updater16.0.4.php'
+2016-11-25 09:28:06 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055286/mobileapp/updater16.0.4.php': CopyFiles(install/components, components)
+2016-11-25 09:28:06 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055286/mobileapp/updater16.0.4.php': CopyFiles(install/js, js)
+2016-11-25 09:28:06 -  - TIME UpdateStepModules 0.062 sec
+2016-11-25 09:28:06 - UPD_SUCCESS - Updated: mobileapp (16.0.4)<br><li>Разработчикам: добавлен API для управления стеком экранов мобильного приложения. <li>Исправлены незначительные ошибки. 
+2016-11-25 09:28:07 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:07 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:07 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.4&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:07 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:07 -  - TIME LoadModulesUpdates(request) 0.098 sec
+2016-11-25 09:28:07 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:07 - S - STEP
+2016-11-25 09:28:07 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:07 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:07 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:07 -  - loadFile
+2016-11-25 09:28:07 - U - RETURN
+2016-11-25 09:28:07 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:07 -  - TIME UnGzipArchive 0.003 sec
+2016-11-25 09:28:07 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055287/mobileapp/updater16.0.5.php'
+2016-11-25 09:28:07 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055287/mobileapp/updater16.0.5.php': CopyFiles(install/js, js)
+2016-11-25 09:28:07 -  - TIME UpdateStepModules 0.006 sec
+2016-11-25 09:28:07 - UPD_SUCCESS - Updated: mobileapp (16.0.5)<br><li>Исправлены незначительные ошибки в мобильных видеозвонках.
+2016-11-25 09:28:07 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:07 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:07 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.5&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:07 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:08 -  - TIME LoadModulesUpdates(request) 0.082 sec
+2016-11-25 09:28:08 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:08 - S - STEP
+2016-11-25 09:28:08 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:08 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:08 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:08 -  - loadFile
+2016-11-25 09:28:08 - U - RETURN
+2016-11-25 09:28:08 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:08 -  - TIME UnGzipArchive 0.008 sec
+2016-11-25 09:28:08 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055288/mobileapp/updater16.0.6.php'
+2016-11-25 09:28:08 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055288/mobileapp/updater16.0.6.php': CopyFiles(install/js, js)
+2016-11-25 09:28:08 -  - TIME UpdateStepModules 0.013 sec
+2016-11-25 09:28:08 - UPD_SUCCESS - Updated: mobileapp (16.0.6)<br><li>Исправлены незначительные ошибки.
+2016-11-25 09:28:09 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:09 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.6&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:09 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:09 -  - TIME LoadModulesUpdates(request) 0.089 sec
+2016-11-25 09:28:09 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:09 - S - STEP
+2016-11-25 09:28:09 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:10 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:10 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:10 -  - loadFile
+2016-11-25 09:28:10 - U - RETURN
+2016-11-25 09:28:10 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:10 -  - TIME UnGzipArchive 0.006 sec
+2016-11-25 09:28:10 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055290/mobileapp/updater16.0.7.php'
+2016-11-25 09:28:10 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055290/mobileapp/updater16.0.7.php': CopyFiles(install/js, js)
+2016-11-25 09:28:10 -  - TIME UpdateStepModules 0.009 sec
+2016-11-25 09:28:10 - UPD_SUCCESS - Updated: mobileapp (16.0.7)<br><li>Исправлены незначительные ошибки.
+2016-11-25 09:28:10 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:10 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:10 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.7&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:10 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:10 -  - TIME LoadModulesUpdates(request) 0.111 sec
+2016-11-25 09:28:10 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:10 - S - STEP
+2016-11-25 09:28:10 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:11 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:11 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:11 -  - loadFile
+2016-11-25 09:28:11 - U - RETURN
+2016-11-25 09:28:11 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:11 -  - TIME UnGzipArchive 0.02 sec
+2016-11-25 09:28:11 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055291/mobileapp/updater16.0.8.php'
+2016-11-25 09:28:11 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055291/mobileapp/updater16.0.8.php': CopyFiles(install/js, js)
+2016-11-25 09:28:11 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055291/mobileapp/updater16.0.8.php': CopyFiles(install/components, components)
+2016-11-25 09:28:11 -  - TIME UpdateStepModules 0.064 sec
+2016-11-25 09:28:11 - UPD_SUCCESS - Updated: mobileapp (16.0.8)<br><li>Добавлен параметр меню страницы useNavigationBarColor. <li>Исправлены незначительные ошибки в конструкторе мобильных приложений.
+2016-11-25 09:28:12 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:12 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:12 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.8&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:12 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:12 -  - TIME LoadModulesUpdates(request) 0.119 sec
+2016-11-25 09:28:12 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:12 - S - STEP
+2016-11-25 09:28:12 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:13 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:13 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:13 -  - loadFile
+2016-11-25 09:28:13 - U - RETURN
+2016-11-25 09:28:13 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:13 -  - TIME UnGzipArchive 0.024 sec
+2016-11-25 09:28:13 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055293/mobileapp/updater16.0.9.php'
+2016-11-25 09:28:13 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055293/mobileapp/updater16.0.9.php': CopyFiles(install/admin, admin)
+2016-11-25 09:28:13 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055293/mobileapp/updater16.0.9.php': CopyFiles(install/components, components)
+2016-11-25 09:28:13 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055293/mobileapp/updater16.0.9.php': CopyFiles(install/js, js)
+2016-11-25 09:28:13 -  - TIME UpdateStepModules 0.073 sec
+2016-11-25 09:28:13 - UPD_SUCCESS - Updated: mobileapp (16.0.9)<br><li>Исправлена ошибка отображения списочных параметров в конструкторе мобильных приложений. 
+2016-11-25 09:28:14 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:14 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.9&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:14 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:15 -  - TIME LoadModulesUpdates(request) 0.109 sec
+2016-11-25 09:28:15 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:15 - S - STEP
+2016-11-25 09:28:15 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:15 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:15 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:15 -  - loadFile
+2016-11-25 09:28:15 - U - RETURN
+2016-11-25 09:28:15 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:15 -  - TIME UnGzipArchive 0.004 sec
+2016-11-25 09:28:15 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055295/mobileapp/updater16.0.10.php'
+2016-11-25 09:28:15 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055295/mobileapp/updater16.0.10.php': CopyFiles(install/js, js)
+2016-11-25 09:28:15 -  - TIME UpdateStepModules 0.007 sec
+2016-11-25 09:28:15 - UPD_SUCCESS - Updated: mobileapp (16.0.10)<br><li>Незначительные правки javascript-библиотеки. 
+2016-11-25 09:28:16 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:16 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.0.2&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:16 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:16 -  - TIME LoadModulesUpdates(request) 0.141 sec
+2016-11-25 09:28:16 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:16 - S - STEP
+2016-11-25 09:28:16 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:16 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:16 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:16 -  - loadFile
+2016-11-25 09:28:16 - U - RETURN
+2016-11-25 09:28:16 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:16 -  - TIME UnGzipArchive 0.005 sec
+2016-11-25 09:28:16 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055296/highloadblock/updater16.5.0/index.php'
+2016-11-25 09:28:16 -  - TIME UpdateStepModules 0.046 sec
+2016-11-25 09:28:16 - UPD_SUCCESS - Updated: highloadblock (16.5.0)<br><li>Для пользовательского типа свойств инфоблоков \"Справочник\" добавлен метод GetPublicEditHTML. <li>Исправления незначительных ошибок.
+2016-11-25 09:28:17 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:17 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:17 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.0.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:17 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:17 -  - TIME LoadModulesUpdates(request) 0.095 sec
+2016-11-25 09:28:17 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:17 - S - STEP
+2016-11-25 09:28:17 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:17 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:17 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:17 -  - loadFile
+2016-11-25 09:28:17 - U - RETURN
+2016-11-25 09:28:17 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:17 -  - TIME UnGzipArchive 0.002 sec
+2016-11-25 09:28:17 -  - TIME UpdateStepModules 0.003 sec
+2016-11-25 09:28:17 - UPD_SUCCESS - Updated: scale (16.5.0)<br><li>Исправлена ошибка, при которой в панели управления показывались не все данные об использовании ресурсов.
+2016-11-25 09:28:18 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:18 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.0.14&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.0.14&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.1&bitm_blog=16.5.3&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:18 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:18 -  - TIME LoadModulesUpdates(request) 0.089 sec
+2016-11-25 09:28:18 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:18 - S - STEP
+2016-11-25 09:28:18 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:20 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:20 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:20 -  - loadFile
+2016-11-25 09:28:20 - U - RETURN
+2016-11-25 09:28:20 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:20 -  - TIME UnGzipArchive 0.125 sec
+2016-11-25 09:28:20 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055300/main/updater16.5.0.php'
+2016-11-25 09:28:20 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055300/main/updater16.5.0.php': CopyFiles(install/components, components)
+2016-11-25 09:28:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055300/main/updater16.5.0.php': CopyFiles(install/js, js)
+2016-11-25 09:28:21 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055300/main/updater16.5.0.php': Query(drop index UX_B_SITE_TEMPLATE on b_site_template, )
+2016-11-25 09:28:21 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055300/main/updater16.5.0.php': Query(CREATE INDEX ix_site_template_site ON b_site_template (SITE_ID), )
+2016-11-25 09:28:21 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055300/main/updater16.5.0.php': Query(ALTER TABLE b_site_template MODIFY TEMPLATE varchar(255) not null, )
+2016-11-25 09:28:22 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055300/forum/updater16.5.2.php'
+2016-11-25 09:28:22 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055300/forum/updater16.5.2.php': CopyFiles(install/components, components)
+2016-11-25 09:28:22 -  - TIME UpdateStepModules 1.331 sec
+2016-11-25 09:28:22 - UPD_SUCCESS - Updated: main (16.5.0)<br><li>Исправлен ряд интерфейсных ошибок. <li>Доработан ряд компонентов для поддержки режима автокомпозита. <li>Разработчикам: изменен внешний вид BX.PopupWindow. 
+2016-11-25 09:28:22 - UPD_SUCCESS - Updated: forum (16.5.2)<br><li>Незначительные изменения. 
+2016-11-25 09:28:22 - UPD_SUCCESS - Updated: blog (16.5.4)<br><li>Поддержка изменений в текстовом парсере главного модуля.
+2016-11-25 09:28:23 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:23 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:23 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.0&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.2&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:23 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:23 -  - TIME LoadModulesUpdates(request) 0.11 sec
+2016-11-25 09:28:23 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:23 - S - STEP
+2016-11-25 09:28:23 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:23 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:23 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:23 -  - loadFile
+2016-11-25 09:28:23 - U - RETURN
+2016-11-25 09:28:23 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:23 -  - TIME UnGzipArchive 0.059 sec
+2016-11-25 09:28:23 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055303/main/updater16.5.1.php'
+2016-11-25 09:28:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055303/main/updater16.5.1.php': CopyFiles(install/components, components)
+2016-11-25 09:28:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055303/main/updater16.5.1.php': CopyFiles(install/js, js)
+2016-11-25 09:28:23 -  - TIME UpdateStepModules 0.118 sec
+2016-11-25 09:28:23 - UPD_SUCCESS - Updated: main (16.5.1)<br><li>Поддержка функционала дел-сообщений живой ленты CRM. <li>Парсинг BB-кода USER реализован в классе CTextParser. 
+2016-11-25 09:28:24 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:24 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.1&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.1&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.2&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:24 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:24 -  - TIME LoadModulesUpdates(request) 0.091 sec
+2016-11-25 09:28:24 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:24 - S - STEP
+2016-11-25 09:28:24 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:24 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:24 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:24 -  - loadFile
+2016-11-25 09:28:24 - U - RETURN
+2016-11-25 09:28:24 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:24 -  - TIME UnGzipArchive 0.001 sec
+2016-11-25 09:28:24 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055304/main/updater16.5.2.php'
+2016-11-25 09:28:24 -  - TIME UpdateStepModules 0.011 sec
+2016-11-25 09:28:24 - UPD_SUCCESS - Updated: main (16.5.2)<br><li>Обработка нового типа событий интернет-магазина.
+2016-11-25 09:28:26 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:26 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.2&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.2&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.2&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:26 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:26 -  - TIME LoadModulesUpdates(request) 0.078 sec
+2016-11-25 09:28:26 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:26 - S - STEP
+2016-11-25 09:28:26 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:26 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:26 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:26 -  - loadFile
+2016-11-25 09:28:26 - U - RETURN
+2016-11-25 09:28:26 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:26 -  - TIME UnGzipArchive 0.104 sec
+2016-11-25 09:28:26 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055306/main/updater16.5.3.php'
+2016-11-25 09:28:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055306/main/updater16.5.3.php': CopyFiles(install/components, components)
+2016-11-25 09:28:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055306/main/updater16.5.3.php': CopyFiles(install/js, js)
+2016-11-25 09:28:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055306/main/updater16.5.3.php': CopyFiles(install/panel, panel)
+2016-11-25 09:28:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055306/main/updater16.5.3.php': CopyFiles(install/images, images)
+2016-11-25 09:28:27 -  - TIME UpdateStepModules 0.363 sec
+2016-11-25 09:28:27 - UPD_SUCCESS - Updated: main (16.5.3)<br><li>Реализована новая стратегия обновления кеша: кеш перестраивается только одним процессом, а остальные получают сохраненные ранее данные. <li>АвтоКомпозит: новый интерфейс настройки. <li>Композит: возвращена настройка \"а также страницы, содержащие только следующие параметры\". <li>Исправлен ряд интерфейсных ошибок. <li>Исправления в библиотеке core.js. <li>Разработчикам: добавлены события OnAfterUserTypeUpdate, OnAfterUserTypeDelete. <li>Разработчикам: в core.js добавлена функция BX.setCookie. 
+2016-11-25 09:28:28 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:28 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.3&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.3&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.2&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:28 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:28 -  - TIME LoadModulesUpdates(request) 0.079 sec
+2016-11-25 09:28:28 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:28 - S - STEP
+2016-11-25 09:28:28 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:28 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:28 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:28 -  - loadFile
+2016-11-25 09:28:28 - U - RETURN
+2016-11-25 09:28:28 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:28 -  - TIME UnGzipArchive 0.077 sec
+2016-11-25 09:28:28 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055308/main/updater16.5.4.php'
+2016-11-25 09:28:28 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055308/main/updater16.5.4.php': CopyFiles(install/components, components)
+2016-11-25 09:28:28 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055308/main/updater16.5.4.php': CopyFiles(install/js, js)
+2016-11-25 09:28:28 -  - TIME UpdateStepModules 0.118 sec
+2016-11-25 09:28:28 - UPD_SUCCESS - Updated: main (16.5.4)<br><li>Добавлена карта скорости сайта по географии посетителей. <li>Поддержка использования контактов CRM как почтовых пользователей. <li>Исправление ошибок. <li>Разработчикам: новый оператор фильтра ORM \'==\' для булевых выражений. 
+2016-11-25 09:28:29 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:29 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:29 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.4&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.4&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.2&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:29 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:29 -  - TIME LoadModulesUpdates(request) 0.074 sec
+2016-11-25 09:28:29 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:29 - S - STEP
+2016-11-25 09:28:29 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:29 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:29 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:29 -  - loadFile
+2016-11-25 09:28:29 - U - RETURN
+2016-11-25 09:28:29 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:29 -  - TIME UnGzipArchive 0.008 sec
+2016-11-25 09:28:29 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055309/main/updater16.5.5.php'
+2016-11-25 09:28:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055309/main/updater16.5.5.php': CopyFiles(install/js, js)
+2016-11-25 09:28:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055309/main/updater16.5.5.php': CopyFiles(install/css, css)
+2016-11-25 09:28:29 -  - TIME UpdateStepModules 0.026 sec
+2016-11-25 09:28:30 - UPD_SUCCESS - Updated: main (16.5.5)<br><li>Незначительные исправления и улучшения.
+2016-11-25 09:28:30 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:30 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.5&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.5&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.2&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:30 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:30 -  - TIME LoadModulesUpdates(request) 0.081 sec
+2016-11-25 09:28:30 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:31 - S - STEP
+2016-11-25 09:28:31 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:31 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:31 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:31 -  - loadFile
+2016-11-25 09:28:31 - U - RETURN
+2016-11-25 09:28:31 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:31 -  - TIME UnGzipArchive 0.002 sec
+2016-11-25 09:28:31 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055311/main/updater16.5.6.php'
+2016-11-25 09:28:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055311/main/updater16.5.6.php': CopyFiles(install/components, components)
+2016-11-25 09:28:31 -  - TIME UpdateStepModules 0.007 sec
+2016-11-25 09:28:31 - UPD_SUCCESS - Updated: main (16.5.6)<br><li>Исправлена проблема безопасности в пользовательском поле типа \"список\".
+2016-11-25 09:28:32 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:32 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.6&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.6&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.2&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:32 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:32 -  - TIME LoadModulesUpdates(request) 0.089 sec
+2016-11-25 09:28:32 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:32 - S - STEP
+2016-11-25 09:28:32 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:32 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:32 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:32 -  - loadFile
+2016-11-25 09:28:32 - U - RETURN
+2016-11-25 09:28:32 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:32 -  - TIME UnGzipArchive 0.112 sec
+2016-11-25 09:28:32 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055312/main/updater16.5.7.php'
+2016-11-25 09:28:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055312/main/updater16.5.7.php': CopyFiles(install/components, components)
+2016-11-25 09:28:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055312/main/updater16.5.7.php': CopyFiles(install/css, css)
+2016-11-25 09:28:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055312/main/updater16.5.7.php': CopyFiles(install/gadgets, gadgets)
+2016-11-25 09:28:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055312/main/updater16.5.7.php': CopyFiles(install/js, js)
+2016-11-25 09:28:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055312/main/updater16.5.7.php': CopyFiles(install/panel, panel)
+2016-11-25 09:28:32 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055312/main/updater16.5.7.php': Query(ALTER TABLE b_admin_notify ADD NOTIFY_TYPE char(1) NOT NULL DEFAULT 'M', )
+2016-11-25 09:28:33 -  - TIME UpdateStepModules 0.697 sec
+2016-11-25 09:28:33 - UPD_SUCCESS - Updated: main (16.5.7)<br><li>Введено понятие \"Установка для разработки\": это экземпляр для разработки и тестирования, закрытый от публичного доступа. Режим включается в настройках главного модуля. Установки для разработки при обновлении учитываются отдельно от публичных установок. <li>Гаджет \"Скорость сайта / Монитор производительности\" разделен на два отдельных гаджета. <li>Добавлены необязательные проверки системы: публикация из почты в живую ленту, модуль rest, подключение к bitrix24.net. <li>Исправлена ошибка в режиме компонентного AJAX при использовании тега aside. <li>Исправлена ошибка автокомпозита при использовании компонентов в режиме AJAX. <li>Исправлен ряд ошибок в гаджетах рабочего стола. <li>Исправлен ряд интерфейсных ошибок. <li>Разработчикам: в ORM в фильтры добавлено строгое сравнение с NULL (\'==ID\' => null, \'!==NAME\' => null). 
+2016-11-25 09:28:34 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:34 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.7&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.7&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.2&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:34 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:34 -  - TIME LoadModulesUpdates(request) 0.079 sec
+2016-11-25 09:28:34 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:34 - S - STEP
+2016-11-25 09:28:34 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:34 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:34 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:34 -  - loadFile
+2016-11-25 09:28:34 - U - RETURN
+2016-11-25 09:28:34 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:34 -  - TIME UnGzipArchive 0.191 sec
+2016-11-25 09:28:34 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055314/main/updater16.5.8.php'
+2016-11-25 09:28:34 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055314/main/updater16.5.8.php': CopyFiles(install/components, components)
+2016-11-25 09:28:34 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055314/main/updater16.5.8.php': CopyFiles(install/css, css)
+2016-11-25 09:28:34 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055314/main/updater16.5.8.php': CopyFiles(install/gadgets, gadgets)
+2016-11-25 09:28:34 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055314/main/updater16.5.8.php': CopyFiles(install/js, js)
+2016-11-25 09:28:34 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055314/main/updater16.5.8.php': Query(alter table b_event_message add column LANGUAGE_ID char(2) NULL, )
+2016-11-25 09:28:35 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1480055314/main/updater16.5.8.php': Query(alter table b_event add column LANGUAGE_ID char(2) NULL, )
+2016-11-25 09:28:36 -  - TIME UpdateStepModules 1.26 sec
+2016-11-25 09:28:36 - UPD_SUCCESS - Updated: main (16.5.8)<br><li>В почтовые события и почтовые шаблоны добавлено поле \"Язык\". При создании письма выбираются почтовые шаблоны, соответствующие языку события, либо не имеющие установленного языка. <li>Добавлена настройка главного модуля \"Использовать CAPTCHA при восстановлении пароля\". Внимание! Может потребоваться доработка кастомизированных шаблонов компонентов system.auth.changepasswd и system.auth.forgotpasswd для показа CAPTCHA. <li>Добавлены настройки главного модуля для ограничения картинок профиля по размеру. <li>Расширены проверки в мониторе качества для корпоративных порталов. <li>В списке агентов в панели управления расширен набор полей. <li>Изменен интерфейс \"Развернуть все вкладки\" в формах панели управления, теперь закладки являются ссылками на соответствующие разделы формы. <li>В пользовательском свойстве \"Привязка к сотруднику\" расширена проверка прав. <li>Исправлены ошибки в резервном копировании/восстановлении. <li>Исправлена ошибка в меню при некорректных UTF-символах в URI. <li>Исправлен ряд интерфейсных ошибок. <li>В классе CBXSanitizer улучшена обработка таблиц. <li>Добавлена библиотека BX.Recorder для записи и кодирования звука в mp3. <li>Исправления и доработки в библиотеке BX.webrtc. <li>Исправлена ошибка с многозначными номерами станиц в постраничной навигации UI\\PageNavigation. 
+2016-11-25 09:28:37 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:37 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:37 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.2&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:37 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:37 -  - TIME LoadModulesUpdates(request) 0.087 sec
+2016-11-25 09:28:37 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:37 - S - STEP
+2016-11-25 09:28:37 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:37 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:37 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:37 -  - loadFile
+2016-11-25 09:28:37 - U - RETURN
+2016-11-25 09:28:37 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:37 -  - TIME UnGzipArchive 0.008 sec
+2016-11-25 09:28:37 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055317/forum/updater16.5.3.php'
+2016-11-25 09:28:37 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055317/forum/updater16.5.3.php': CopyFiles(install/components, components)
+2016-11-25 09:28:37 -  - TIME UpdateStepModules 0.119 sec
+2016-11-25 09:28:37 - UPD_SUCCESS - Updated: forum (16.5.3)<br><li>Служебное обновление для поддержки изменений в модуле \"Веб-мессенджер\". <li>Исправление ошибок.
+2016-11-25 09:28:38 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:38 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:38 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.0.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:38 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:38 -  - TIME LoadModulesUpdates(request) 0.072 sec
+2016-11-25 09:28:38 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:38 - S - STEP
+2016-11-25 09:28:38 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:38 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:38 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:38 -  - loadFile
+2016-11-25 09:28:38 - U - RETURN
+2016-11-25 09:28:38 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:38 -  - TIME UnGzipArchive 0.047 sec
+2016-11-25 09:28:38 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055318/iblock/updater16.5.0/index.php'
+2016-11-25 09:28:38 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055318/iblock/updater16.5.0/index.php': CopyFiles(install/components, components)
+2016-11-25 09:28:39 -  - TIME UpdateStepModules 0.125 sec
+2016-11-25 09:28:39 - UPD_SUCCESS - Updated: iblock (16.5.0)<br><li>В шаблонах компонент catalog, catalog.element, catalog.section, catalog.top изменен js-код показа всплывающих окон для поддержки нового дизайна BX.PopupWindow.
+2016-11-25 09:28:39 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:39 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:39 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.0&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:39 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:40 -  - TIME LoadModulesUpdates(request) 0.075 sec
+2016-11-25 09:28:40 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:40 - S - STEP
+2016-11-25 09:28:40 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:40 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:40 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:40 -  - loadFile
+2016-11-25 09:28:40 - U - RETURN
+2016-11-25 09:28:40 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:40 -  - TIME UnGzipArchive 0.081 sec
+2016-11-25 09:28:40 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055320/iblock/updater16.5.1/index.php'
+2016-11-25 09:28:40 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055320/iblock/updater16.5.1/index.php': CopyFiles(install/components, components)
+2016-11-25 09:28:40 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055320/iblock/updater16.5.1/index.php': CopyFiles(install/js, js)
+2016-11-25 09:28:40 -  - TIME UpdateStepModules 0.16 sec
+2016-11-25 09:28:40 - UPD_SUCCESS - Updated: iblock (16.5.1)<br><li>Исправлена ошибка сохранения анонса и детального описания при копировании торгового предложения в форме редактирования товара. <li>Исправлена ошибка шаблона компонента catalog.compare.result (при добавлении одного товара не показывались его поля). <li>Исправлена ошибка вывода значений свойств в генераторе торговых предложений. <li>Исправлена ошибка фильтрации по диапазону с нулевой границей в компоненте catalog.smart.filter. <li>Исправлена ошибка фильтрации по нулевой цене в компоненте catalog.smart.filter.
+2016-11-25 09:28:41 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:41 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:41 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.1&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:41 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:41 -  - TIME LoadModulesUpdates(request) 0.085 sec
+2016-11-25 09:28:41 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:41 - S - STEP
+2016-11-25 09:28:41 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:41 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:41 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:41 -  - loadFile
+2016-11-25 09:28:41 - U - RETURN
+2016-11-25 09:28:41 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:41 -  - TIME UnGzipArchive 0.054 sec
+2016-11-25 09:28:41 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055321/iblock/updater16.5.2/index.php'
+2016-11-25 09:28:41 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055321/iblock/updater16.5.2/index.php': CopyFiles(install/components, components)
+2016-11-25 09:28:41 -  - TIME UpdateStepModules 0.085 sec
+2016-11-25 09:28:41 - UPD_SUCCESS - Updated: iblock (16.5.2)<br><li>Добавлена кнопка подписки на товар в компонентах каталога. <li>Добавлена колонка с количеством подписок на товар в списке товаров административной части.
+2016-11-25 09:28:42 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:42 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:42 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.2&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:42 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:42 -  - TIME LoadModulesUpdates(request) 0.085 sec
+2016-11-25 09:28:42 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:42 - S - STEP
+2016-11-25 09:28:42 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:42 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:42 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:42 -  - loadFile
+2016-11-25 09:28:42 - U - RETURN
+2016-11-25 09:28:42 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:43 -  - TIME UnGzipArchive 0.105 sec
+2016-11-25 09:28:43 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055322/iblock/updater16.5.3/index.php'
+2016-11-25 09:28:43 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055322/iblock/updater16.5.3/index.php': CopyFiles(install/components, components)
+2016-11-25 09:28:43 -  - TIME UpdateStepModules 0.196 sec
+2016-11-25 09:28:43 - UPD_SUCCESS - Updated: iblock (16.5.3)<br><li>Поддержка округления цен. <li>Улучшена совместимость с PHP 7. <li>Компонент catalog.comments обращается к VKontakte только по https. <li>Разработчикам: метод CIBlockElement::GetList объявлен статическим.
+2016-11-25 09:28:44 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:44 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.3&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:44 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:44 -  - TIME LoadModulesUpdates(request) 0.088 sec
+2016-11-25 09:28:44 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:44 - S - STEP
+2016-11-25 09:28:44 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:44 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:44 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:44 -  - loadFile
+2016-11-25 09:28:44 - U - RETURN
+2016-11-25 09:28:44 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:44 -  - TIME UnGzipArchive 0.003 sec
+2016-11-25 09:28:44 -  - TIME UpdateStepModules 0.004 sec
+2016-11-25 09:28:44 - UPD_SUCCESS - Updated: iblock (16.5.4)<br><li>Исправлена ошибка группировки элементов в CIBlockElement::GetList. 
+2016-11-25 09:28:45 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:45 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:45 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.4&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:45 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:45 -  - TIME LoadModulesUpdates(request) 0.1 sec
+2016-11-25 09:28:45 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:45 - S - STEP
+2016-11-25 09:28:45 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:45 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:45 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:45 -  - loadFile
+2016-11-25 09:28:45 - U - RETURN
+2016-11-25 09:28:45 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:45 -  - TIME UnGzipArchive 0.007 sec
+2016-11-25 09:28:45 -  - TIME UpdateStepModules 0.006 sec
+2016-11-25 09:28:45 - UPD_SUCCESS - Updated: iblock (16.5.5)<br><li>Исправлена ошибка фильтрации в методе CIBlockElement::GetList при использовании метода SubQuery. 
+2016-11-25 09:28:47 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:47 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:47 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.5&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:47 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:47 -  - TIME LoadModulesUpdates(request) 0.077 sec
+2016-11-25 09:28:47 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:47 - S - STEP
+2016-11-25 09:28:47 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:47 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:47 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:47 -  - loadFile
+2016-11-25 09:28:47 - U - RETURN
+2016-11-25 09:28:47 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:47 -  - TIME UnGzipArchive 0.002 sec
+2016-11-25 09:28:47 -  - TIME UpdateStepModules 0.005 sec
+2016-11-25 09:28:47 - UPD_SUCCESS - Updated: iblock (16.5.6)<br><li>Исправлена работа фасетного индекса.
+2016-11-25 09:28:48 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:48 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:48 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.4&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:48 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:48 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2016-11-25 09:28:48 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:48 - S - STEP
+2016-11-25 09:28:48 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:48 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:48 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:48 -  - loadFile
+2016-11-25 09:28:48 - U - RETURN
+2016-11-25 09:28:48 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:48 -  - TIME UnGzipArchive 0.019 sec
+2016-11-25 09:28:48 - CSURUS1 - Run updater '/bitrix/updates/update_m1480055328/blog/updater16.5.5.php'
+2016-11-25 09:28:48 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1480055328/blog/updater16.5.5.php': CopyFiles(install/components, components)
+2016-11-25 09:28:48 -  - TIME UpdateStepModules 0.034 sec
+2016-11-25 09:28:48 - UPD_SUCCESS - Updated: blog (16.5.5)<br><li>Исправлена ошибка некорректного расчета прав на доступ к проиндексированному поисковому контенту сообщений рабочих групп для их владельцев и модераторов. <li>Поддержка использования контактов CRM, как почтовых пользователей.
+2016-11-25 09:28:49 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:49 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:49 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.5&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:49 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:49 -  - TIME LoadModulesUpdates(request) 0.078 sec
+2016-11-25 09:28:49 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:49 - S - STEP
+2016-11-25 09:28:49 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:49 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:49 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:49 -  - loadFile
+2016-11-25 09:28:49 - U - RETURN
+2016-11-25 09:28:49 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:49 -  - TIME UnGzipArchive 0.004 sec
+2016-11-25 09:28:49 -  - TIME UpdateStepModules 0.005 sec
+2016-11-25 09:28:49 - UPD_SUCCESS - Updated: blog (16.5.6)<br><li>Служебное обновление для поддержки изменений в модуле \"Веб-мессенджер\".
+2016-11-25 09:28:50 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:50 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.6&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:50 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:50 -  - TIME LoadModulesUpdates(request) 0.077 sec
+2016-11-25 09:28:50 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:50 - S - STEP
+2016-11-25 09:28:50 - LMU01 - LoadModulesUpdates-Step
+2016-11-25 09:28:51 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:51 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:51 -  - loadFile
+2016-11-25 09:28:51 - U - RETURN
+2016-11-25 09:28:51 -  - exec CUpdateClient::UnGzipArchive
+2016-11-25 09:28:51 -  - TIME UnGzipArchive 0.011 sec
+2016-11-25 09:28:51 -  - TIME UpdateStepModules 0.02 sec
+2016-11-25 09:28:51 - UPD_SUCCESS - Updated: blog (16.5.7)<br><li>Добавлена поддержка служебных комментариев к сообщениям живой ленты.
+2016-11-25 09:28:52 -  - exec CUpdateClient::LoadModulesUpdates
+2016-11-25 09:28:52 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:52 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.7&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:52 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:52 -  - TIME LoadModulesUpdates(request) 0.115 sec
+2016-11-25 09:28:52 -  - exec CUpdateClient::ParseServerData
+2016-11-25 09:28:52 - STEP - Finish - NOUPDATES
+2016-11-25 09:28:52 - STEP - Finish - NOUPDATES
+2016-11-25 09:28:55 -  - exec CUpdateClient::GetUpdatesList
+2016-11-25 09:28:55 -  - exec CUpdateClient::CollectRequestData
+2016-11-25 09:28:55 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.7&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-11-25 09:28:55 -  - exec CUpdateClient::GetHTTPPage
+2016-11-25 09:28:56 -  - TIME GetUpdatesList(request) 0.091 sec
+2016-11-25 09:28:56 -  - exec CUpdateClient::ParseServerData
+2016-12-02 18:44:17 -  - exec CUpdateClient::GetUpdatesList
+2016-12-02 18:44:17 -  - exec CUpdateClient::CollectRequestData
+2016-12-02 18:44:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.7&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-12-02 18:44:18 -  - exec CUpdateClient::GetHTTPPage
+2016-12-02 18:44:18 -  - TIME GetUpdatesList(request) 0.097 sec
+2016-12-02 18:44:18 -  - exec CUpdateClient::ParseServerData
+2016-12-02 18:44:18 -  - exec CUpdateClient::executeCounters
+2016-12-02 18:44:18 -  - exec CUpdateClient::CollectRequestData
+2016-12-02 18:44:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.7&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&query_type=counter&cntr_result[3]=5.3&cntr_result[57]=
+2016-12-02 18:44:18 -  - exec CUpdateClient::GetHTTPPage
+2016-12-02 18:44:18 -  - TIME executeCounters 0.096 sec
+2017-01-17 18:02:48 -  - exec CUpdateClient::GetUpdatesList
+2017-01-17 18:02:48 -  - exec CUpdateClient::CollectRequestData
+2017-01-17 18:02:48 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.7&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-01-17 18:02:48 -  - exec CUpdateClient::GetHTTPPage
+2017-01-17 18:02:49 -  - TIME GetUpdatesList(request) 0.142 sec
+2017-01-17 18:02:49 -  - exec CUpdateClient::ParseServerData
+2017-01-17 18:02:49 -  - exec CUpdateClient::executeCounters
+2017-01-17 18:02:49 -  - exec CUpdateClient::CollectRequestData
+2017-01-17 18:02:49 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.7&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&query_type=counter&cntr_result[65]=5.0&cntr_result[73]=3.0.5
+2017-01-17 18:02:49 -  - exec CUpdateClient::GetHTTPPage
+2017-01-17 18:02:49 -  - TIME executeCounters 0.091 sec
+2017-01-17 18:03:28 -  - exec CUpdateClient::GetUpdatesList
+2017-01-17 18:03:28 -  - exec CUpdateClient::CollectRequestData
+2017-01-17 18:03:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=16.5.7&VERSION=16.5.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ex2training.1c-bitrix.ru&CHHB=ex2training.1c-bitrix.ru%3A80&CSAB=127.0.0.1&CANGZIP=Y&CLIENT_PHPVER=5.3.8-ZS5.5.0&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.8&bitm_compression=16.0.0&bitm_vote=15.5.0&bitm_security=16.5.0&bitm_mobileapp=16.0.10&bitm_iblock=16.5.6&bitm_search=16.5.0&bitm_form=15.0.2&bitm_bitrixcloud=16.0.1&bitm_translate=14.5.0&bitm_socialservices=16.5.5&bitm_clouds=16.5.2&bitm_seo=16.0.3&bitm_photogallery=16.0.1&bitm_scale=16.5.0&bitm_fileman=16.5.5&bitm_subscribe=16.5.0&bitm_highloadblock=16.5.0&bitm_forum=16.5.3&bitm_blog=16.5.7&bitm_perfmon=16.5.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-01-17 18:03:28 -  - exec CUpdateClient::GetHTTPPage
+2017-01-17 18:03:28 -  - TIME GetUpdatesList(request) 0.179 sec
+2017-01-17 18:03:28 -  - exec CUpdateClient::ParseServerData
