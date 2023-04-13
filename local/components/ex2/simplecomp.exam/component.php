@@ -145,6 +145,7 @@ if ($this->StartResultCache(false, array($USER->GetUserGroupArray(), $arNavigati
 	}
 	
 	
+	//[ex2-58] Добавить управление элементами – «Эрмитаж» в созданный простой компонент «Каталог товаров»
 
 	$arButtons = CIBlock::GetPanelButtons(
 		$iblockProd,

@@ -58,4 +58,32 @@ function CheckUserCount()
     return "CheckUserCount();";
 }
 
+
+// [ех2-86] Проверка количества пользователей на сайте
+function ExamCheckCount(){
+    $rsAdmins = CUser::GetList($by = "ID", $order = "ASC", array("ID" => 1))->fetch(); 
+    CEvent::Send(
+        "COUNT_REGISTERED_USERS",
+        "s1",
+        array(
+            "EMAIL_TO" => $rsAdmins["EMAIL"],
+            "MESSAGE" => "На сайте зарегистрировано ".CUser::GetCount()." пользователей",
+        ),
+        "Y",
+        "29"
+    );
+
+    return "ExamCheckCount();";
+}
+
+function dump($var)
+{
+    global $USER;
+    if($USER->isAdmin())
+    {
+        echo("---<bt><pre>");
+        var_dump($var);
+        echo("</pre>---<br><br><br>");
+    }
+}
 ?>

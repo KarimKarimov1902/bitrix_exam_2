@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Классификатор";
+$arDirProperties = Array(
+
+);
+?>
