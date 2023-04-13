@@ -19,7 +19,7 @@
         {
             $res = CIBlockElement::GetList(
                 false, 
-                Array("IBLOCK_ID"=>PRODUCT_IBLOCK, "ID"=>$arFields['ID'],">SHOW_COUNTER"=>2), 
+                Array("IBLOCK_ID"=>PRODUCT_IBLOCK, "ID"=>$arFields['ID'], ">SHOW_COUNTER"=>2), 
                 false, 
                 Array("nTopCount"=>1), 
                 Array("ID", "SHOW_COUNTER")
