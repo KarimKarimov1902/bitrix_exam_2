@@ -19,7 +19,7 @@
 
 #### Настройки Базы Данных:
 
-![Screenshot](020.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/020.png)
 
 #### Жмём "ВОССТАНОВИТЬ"
 
@@ -60,13 +60,13 @@ admin / 112233
 
 •	Текст слогана в шаблоне сайта, в файле header.php, устанавливается редактируемой областью. Редактируемую область заменить на вывод слогана с помощью созданного свойства страницы «Слоган в шапке сайта».
 
-![Screenshot](http://lmsotfy.com/so.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/0111111.png)
 
 •	По умолчанию для всего сайта установить значение свойства: «Слоган компании находится в этом месте».
 
 •	На детальной странице товара в каталоге (/products/N/M/ устанавливать слоган в шаблоне сайта равным первым 40 символам из описания товара для анонса.
 
-![Screenshot](002.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/002.png)
 
 
 ### [ех2-75] Проверка текста при изменении новости
@@ -127,7 +127,7 @@ admin / 112233
 
     o	«Мягкая мебель» и «Офисная мебель» к «Раздел 2»
 
-![Screenshot](003.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/003.png)
 
 (для возможности отображения пользовательских полей в списке - настройте инфоблок на раздельный просмотр разделов и элементов)
 
@@ -171,7 +171,7 @@ admin / 112233
 
 •	Ссылка должна строиться не по шаблону созданному «в ручную», а на основании данных полученных элементов.
 
-![Screenshot](005.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/005.png)
 
 
 ### [ех2-73] Создание комплексного компонента «Моя фотогалерея» 
@@ -211,9 +211,9 @@ admin / 112233
 
 •	На странице exampage.php вывести значение переменных SECTION_ID, ELEMENT_ID, PARAM1, PARАМ2
 
-![Screenshot](006.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/006.png)
 
-![Screenshot](007.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/007.png)
 
 
 
@@ -237,11 +237,11 @@ admin / 112233
     
 •	По умолчанию для всего сайта установить пустое значение свойства, для страницы «Контакты» задать значение «background-color: red».
 
-![Screenshot](008.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/008.png)
 
 •	На детальной странице товара (products/…/…/) устанавливать свойства страницы равное «background-image: url(#IMAGE#); background-size: contain;», #IMAGE# - это пусть к детальной картинке товара. Если картинка не задана – должен остаться пустой стиль.
 
-![Screenshot](009.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/009.png)
 
 ### [ex2-92] Задать особую индексацию для элементов инфоблока «Новости»
 
@@ -253,11 +253,11 @@ admin / 112233
 
     o	Без доработки, результат поиска такой
 
-![Screenshot](010.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/010.png)
 
     o	После доработки должен стать такой:
 
-![Screenshot](011.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/011.png)
 
 
 
@@ -313,7 +313,7 @@ admin / 112233
 
 #### Пример вывода (конкретные данные могут отличаться)
 
-![Screenshot](012.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/012.png)
 
 #### Технические требования
 
@@ -351,7 +351,7 @@ admin / 112233
 
 #### Пример результата (конкретные данные могут отличаться)
 
-![Screenshot](013.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/013.png)
 
 ### [ex2-103] Добавить англоязычную версию сайта (отдельный инфоблок)
 
@@ -398,9 +398,9 @@ o	Язык – английский.
     
 #### Пример реализации:
 
-![Screenshot](014.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/014.png)
 
-![Screenshot](015.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/015.png)
 
 
 ### [ех2-93] Записывать в Журнал событий открытие не существующих страниц сайта
@@ -501,7 +501,7 @@ o	Язык – английский.
 
 #### Пример вывода (конкретные данные могут отличаться)
 
-![Screenshot](016.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/016.png)
 
 
 ### [ех2-83] Добавить постраничную навигацию в созданный простой компонент
@@ -516,7 +516,7 @@ o	Язык – английский.
 
 #### Пример вывода (конкретные данные могут отличаться):
 
-![Screenshot](017.png)
+![Screenshot](https://github.com/donitz1609/bitrix.exam2/blob/master/017.png)
 
 
 ### [ех2-86] Проверка количества пользователей на сайте
